@@ -1,0 +1,16 @@
+How did you build the microservices application
+How did you logging
+Did you use Eureka? How to use it
+What is service discovery
+what is microservices
+does microservice shared database?
+how do you manage the database
+a customer ordering an order, how would design the microservice and the databases
+How would you manage the transaction in microservices
+exprience in asynchronous call in microservices
+How can you rollback in microservices
+Hystrix to do the rollback
+exprience in java
+advantage of abstract class
+exprience in design pattern
+singleton vs static
