@@ -1,0 +1,187 @@
+Screening Questions (Please review these topics and be able to give an answer for each point, the managers asked us to go over them with candidates before an interview):
+
+· What are data structures? What are sets/lists/hash maps and how and why do we use them?
+
+· What is dependency injection?
+
+· Describe how you would write a class that can detect duplicate strings. (The class should implement Boolean isDuplicate(Strong str). The method should:
+
+1. Return to false if the first time str is passed to the method
+
+2. Return to true if str was ever passed before
+
+3. Take into consideration the time complexity to find if the word is a duplicate
+
+· What is a problem you might encounter in multi-threaded programming? How would you avoid it?
+
+· If you had a directory of log files in a Linux Box, how would you find which log had the word "error" inside it?
+
+· SQL Question – What tables/columns would you need to represent the following requirements in a relational/SQL database?
+
+1. Customers can have zero, one, or many accounts
+
+2. Each account is only allowed to belong to one customer
+
+· REST Question – What have you done with REST services? Where have you implemented them and how? If you were designing a REST API what URLs and HTTP methods would you use for the following:
+
+1. Make a new user
+
+2. Update an existing user's email
+
+3. List of all usernames
+
+4. Return the details of a specific user
+
+ 
+
+Core Java Examples:
+
+15) Core Java – What are the steps to implement an immutable object? 
+
+ 
+
+16) Core Java – What are the various class loaders used in JVM
+
+ 
+
+17) Core Java – How and when does the heap vs stack memory used in JVM?
+
+ 
+
+18) How is a hash map implemented.
+
+ 
+
+19) How does a concurrent hash map work.
+
+ 
+
+·         What is hashCode() and equals() and when do you use them?
+
+·         How is a HashMap used?
+
+·         What are the characteristics of a HashMap?
+
+·         How do you ensure that a value doesn't change in a POJO?
+
+·         What is bucketing for Hashmap?
+
+·         If two objects are only referencing themselves, will they be garbage collected?
+
+·         How do you make sure you only have a single instance of an object when you are referring to it during multithreading?
+
+·         What are 'map' and 'reduce' used for in Java 8 streams?
+
+·         How do you create an object in JavaScript?
+
+·         What are some new aspects introduced with ES6?
+
+·         Java Concurrency questions
+
+·         Dealing with private members in JavaScript
+
+ 
+
+ 
+
+Spring Examples:
+
+ 
+
+18) Spring - What are the implicit design patterns used internally within Spring framework?  Explain at least 3 patterns in detail?
+
+ 
+
+19) Talk about your application development experience using  Spring boot.
+
+·         Talk about the important configurations used by spring boot app.
+
+·         How do you package and deploy a springboot application
+
+·         How do you deploy to an external tomcat/web server
+
+·         Where do you define your datasource properties
+
+ 
+
+20) How do you inject a collection into a spring bean
+
+ 
+
+21) What are some of the important annotations used in Spring/Springboot
+
+ 
+
+22) What are the different bean scopes
+
+·         WHERE do you define the scope
+
+ 
+
+ 
+
+SQL Examples:
+
+ 
+
+25) How would you design the data model. Explain with an example
+
+Follow up questions:
+
+o   Primary / Foreign Keys
+
+o   Indexes
+
+o   Views
+
+o   Joins. T
+
+o   Performance issues –
+
+ 
+
+26) Coding questions on sql to demonstrate proficiency in
+
+·         Writing sub queries
+
+·         Using joins
+
+ 
+
+Design Patterns:
+
+1)      Explain what is singleton pattern
+
+Follow up questions on:
+
+·         How to make it thread safe
+
+·         Is that eager/lazy
+
+·         Use Cases
+
+2)      Explain how you have used common ones that you use frequently:
+
+a.       Builder
+
+b.       Decorator
+
+c.       Factory
+
+ 
+
+REST API Development /Spring Boot
+
+a.       JSON Parsing
+
+b.       GET, put, post
+
+c.       Creating URLs for deleting tables etc.
+
+d.       Java Collections, Hibernate
+
+e.       Structure APIs for SQL resrouce
+
+f.        Dif between SOAP/REST
+
+g.       Create users in REST
